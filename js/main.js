@@ -22,7 +22,7 @@ $(document).ready(function(){
 		};
 		$.ajax({
 			type: "GET",
-    		url: "https://www.googleapis.com/youtube/v3/search",
+			url: "https://www.googleapis.com/youtube/v3/search",
 			datatype: 'json',
 			data : data,
 			success: function(response){

@@ -4,7 +4,7 @@ body {
 #header {
 	height: 20%;
 }
-#header h1 {
+#header h1,#header h2,#header h3,#header h4,#header h5,#header h6 {
 	margin: 50px 0px 60px 0px;
 	text-align: center;
 }
